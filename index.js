@@ -8,7 +8,7 @@ const api       = require('./api');
 //Set the parameters
 const team      = 'Duisburg';
 const home_team = 'K&ouml;n';
-const hashtag   = '#MKOEMSV';
+const hashtag   = '#KOEMSV';
 const url       ='https://www.ard-text.de/index.php?page=286'; 
 let init_id     = true; //set to false to test
 let init_id_sc  = true; //set to false to test
